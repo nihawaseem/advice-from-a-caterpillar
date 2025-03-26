@@ -1,4 +1,3 @@
-# advice-from-a-caterpillar
 Cataloguing articles, publications, and other media with that blend mathematical rigour and whimsy together
 
 ### Media 
